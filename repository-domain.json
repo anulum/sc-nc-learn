@@ -3,13 +3,14 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "sc_nc_learn.training_recipe.v1",
     "sc_nc_learn.quantised_weights.v1",
     "sc_nc_learn.plasticity_trace.v1"
   ],
+  "public_remote": "https://github.com/anulum/sc-nc-learn",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-LEARN",
   "tooling_python": {

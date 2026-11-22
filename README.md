@@ -12,6 +12,8 @@ SC-NC-LEARN — repository foundation
 
 SC-NC Learn is being built as the training layer split out of SC-NeuroCore, for spiking networks that run on neuromorphic hardware: training recipes, quantised weights, plasticity traces, conversion from other networks, and the spiking artefact contract that carries a trained network onward. It is distinct from Circuit Learning, which studies circuit design processes. It imports SC-NC Core, SC-NC Catalogue, SC-NC Engine, SC-NC Data and SC-NC Compiler. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed trainer, quantiser, plasticity recorder or qualified record schema.
 
+SC-NC Learn is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;
